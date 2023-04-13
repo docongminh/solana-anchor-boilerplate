@@ -1,0 +1,1 @@
+pub const SEED_PDA: &[u8] = b"seed_pda";
